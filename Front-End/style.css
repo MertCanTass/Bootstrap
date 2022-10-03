@@ -1,0 +1,11 @@
+body{
+    background-color: #E9ECEF;
+}
+
+.card-body .btn{
+    margin-left: 35px;
+}
+
+.card{
+    border-color: blue;
+}
